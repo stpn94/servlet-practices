@@ -9,6 +9,7 @@ List<EmaillistVo> list = new EmaillistDao().findAll();
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="https://unpkg.com/mvp.css">
 <title>Insert title here</title>
 </head>
 <body>
