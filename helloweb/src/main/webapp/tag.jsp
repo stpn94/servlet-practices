@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -35,18 +34,17 @@
 			<td>또치</td>
 		</tr>
 	</table>
-	<br />
-	<img src='images/dooly.png' style='width: 80px; border: 1px solid #999' />
-	<img src='/helloweb/images/dooly.png'
-		style='width: 80px; border: 1px solid #999' />
-	<br />
+	<br/>
+	<img src='images/dooly.png' style='width:80px; border:1px solid #999'/>
+	<img src='/helloweb/images/dooly.png' style='width:80px; border:1px solid #999'/>
+	<br/>
 	<a href='form.jsp'>폼으로 가기</a>
-	<br />
+	<br/>
 	<a href='hello.jsp?name=kickscar&email=k@gmail.com'>Hello</a>
 	<p>
-		INFO: 이름이 [/helloweb]인 컨텍스트를 다시 로드하는 작업이 시작되었습니다.<br /> 5월 24, 2021
-		12:27:24 오후 org.apache.catalina.core.StandardContext reload<br />
-		INFO: 이름이 [/helloweb]인 컨텍스트를 다시 로드하는 것을 완료했습니다.
-	</p>
+	INFO: 이름이 [/helloweb]인 컨텍스트를 다시 로드하는 작업이 시작되었습니다.<br/>
+5월 24, 2021 12:27:24 오후 org.apache.catalina.core.StandardContext reload<br/>
+INFO: 이름이 [/helloweb]인 컨텍스트를 다시 로드하는 것을 완료했습니다.
+	</p>		
 </body>
 </html>
