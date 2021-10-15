@@ -6,3 +6,6 @@ insert into user(no, name, email, password, gender) values (null, '관리자', '
 
 -- user list(select)
 select * from user;
+
+select no, name from user where email= ? and password= ?
+
