@@ -1,6 +1,6 @@
 # servlet-practices
 # Servlet & JSP
-![자료](./자료001.jpg "자료")
+![자료](./user/자료001.jpg "자료")
 servlet-pracitces ) 
 - emaillist01(Model1)
 - guestbookd01(Model1)
