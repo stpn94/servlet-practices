@@ -1,5 +1,4 @@
-<%@page
-	import="org.mariadb.jdbc.internal.com.send.parameters.LongParameter"%>
+<%@page	import="org.mariadb.jdbc.internal.com.send.parameters.LongParameter"%>
 <%@page import="java.util.Date"%>
 <%@page import="java.text.SimpleDateFormat"%>
 <%@page import="com.douzone.guestbook.dao.GuestBookDao"%>
